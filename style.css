@@ -138,6 +138,7 @@ input[type="text"], input[type="password"] {
 input[type="submit"] {
     color: #104c91;
     /* font-size: 21px; */
+    margin-top: 15px;
     height: 65px;
     background-color: white;
     border-color: #104c91;
@@ -150,6 +151,29 @@ input[type="submit"]:hover {
     cursor: pointer;
 }
 
+section {
+
+}
+.warning {
+    display: grid;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.warning h1 {
+    /* border: 1px solid red; */
+    width: 450px;
+    background-color: #efc9af;
+    padding: 15px;
+}
+
+.warning p {
+    /* border: 1px solid red; */
+    width: 450px;
+    background-color: #efc9af;
+    padding: 0px 15px 15px 15px;
+    line-height: 1.6;
+}
 
 
 /* FOOTER */
