@@ -1,5 +1,5 @@
-# Use of flexbox and grid
+# Use of flexbox and grid to create a login page
 
-## Login page
-
-## Stylesheet
+## Files
+### login.html
+### style.css
