@@ -1,2 +1,2 @@
-# Use of flexbox and grid to create a login page
+# Create a login page with flexbox and grid
 # color-combination.PNG
