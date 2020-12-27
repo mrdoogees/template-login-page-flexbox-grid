@@ -1,9 +1,11 @@
 # Login page template
-html, css
+This is an easy template for a login page. 
 
-Flexbox, grid
+The web page is adapted to different types of screen (browser, mobile device, tablet)
 
-VS Code
+Technologies : html, css with Flexbox, grid to layout and positionning elements
+
+Editor : VS Code
 
 ## Color combination
 Dark Blue, Turquoise, Beige: Confident and Creative
