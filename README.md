@@ -3,7 +3,7 @@ This is an easy template for a login page.
 
 The web page is adapted to different types of screen (browser, mobile device, tablet)
 
-Technologies : html, css with Flexbox, grid to layout and positionning elements
+Technologies : html, css with Flexbox, grid to layout and to position elements
 
 Editor : VS Code
 
